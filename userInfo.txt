@@ -1,0 +1,8 @@
+laz,pass,Lazar,Rajic
+clark,superman,Clark,Kent
+bruce,batman,Bruce,Wayne
+barry,flash,Barry,Allen
+alex,password,Alexis,Klein
+bill,password1,Bill,Smith
+johnny,pass1,Johnny,Smith
+Lazar,password3,Lazar,Rajic

@@ -1,0 +1,6 @@
+Monday,9.5,12.5
+Monday,9.5,12.5
+Tuesday ,8,10
+Monday,9.5,12.5
+Tuesday ,8,10
+Friday,13,15.5

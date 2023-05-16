@@ -1,0 +1,5 @@
+Day: Wednesday
+Start Time: 15
+End Time: 17
+Workout Details: Chest
+-------------------

@@ -1,0 +1,22 @@
+Monday,9.5,12.5
+Tuesday ,8,10
+Friday,13,15.5
+Moday,14,15.5
+Monday,9.5,12.5
+Tuesday ,8,10
+Friday,13,15.5
+Moday,14,15.5
+Tuesday,11.5,12.5
+Monday,9.5,12.5
+Tuesday ,8,10
+Friday,13,15.5
+Moday,14,15.5
+Tuesday,11.5,12.5
+Wednesday,9.5,11.5
+Monday,9.5,12.5
+Tuesday ,8,10
+Friday,13,15.5
+Moday,14,15.5
+Tuesday,11.5,12.5
+Wednesday,9.5,11.5
+Thursday,9.5,11.5

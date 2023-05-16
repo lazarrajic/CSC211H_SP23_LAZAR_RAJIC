@@ -1,0 +1,15 @@
+Day: Moday
+Start Time: 12
+End Time: 13.5
+Workout Details: Chest
+-------------------
+Day: Wednesday
+Start Time: 11
+End Time: 12.5
+Workout Details: Leg
+-------------------
+Day: Thursday
+Start Time: 9
+End Time: 11
+Workout Details: Back
+-------------------
